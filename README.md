@@ -47,7 +47,8 @@
 ## 📦 安装（一分钟）
 
 1. 浏览器安装 [Tampermonkey](https://www.tampermonkey.net/)（Chrome / Edge / Firefox / Firefox Android 等均可）
-2. 打开本仓库中的 [`x-like-downloader.user.js`](x-like-downloader.user.js) → 点击右侧 **Raw** 按钮，Tampermonkey 会自动弹出安装页 → 点击 **安装**
+2. 点击 **[👉 直接安装](https://github.com/NearlVI/x-like-downloader/raw/main/x-like-downloader.user.js)**，Tampermonkey 会自动弹出安装页 → 点击 **安装**
+   - 或：打开仓库中的 [`x-like-downloader.user.js`](x-like-downloader.user.js) → 点击 **Raw**
    - 或：Tampermonkey 面板 → 添加新脚本 → 粘贴文件全文 → `Ctrl+S`
 3. 打开 [x.com](https://x.com)，给任意一条带图推文点个 ❤，然后检查浏览器下载文件夹 🎉
 
